@@ -1,0 +1,16 @@
+Player name: fd
+Player health: 15
+Player race: Gnome
+Player class: Bard
+Player background: Thief
+Player combat abilities: 
+Bow Damage: 4, DC: 5, Ability: Dexterity
+Axe Damage: 2, DC: 3, Ability: Dexterity
+Player abilities: 
+Strength: 1
+Dexterity: 9
+Constitution: 1
+Intelligence: 4
+Wisdom: 1
+Charisma: 8
+
